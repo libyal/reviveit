@@ -1,0 +1,9 @@
+ReviveIT (revit) is a  proof of concept file recovery tool (carver).
+
+It uses the Smart Carving method introduced at the 2006 DFRWS forensic (carving) challenge and was refined for the 2007 DFRWS forensic (carving) challenge.
+
+Also see:
+  * Submission to DFRWS 2006 carving challenge: https://googledrive.com/host/0B3fBvzttpiiSXzFYdm55enhGLU0/dfrws2006_carving_challenge.pdf
+  * Submission to DFRWS 2007 carving challenge: https://googledrive.com/host/0B3fBvzttpiiSXzFYdm55enhGLU0/dfrws2007_carving_challenge.pdf
+  * Measuring and Improving the Quality of File Carving Methods: https://googledrive.com/host/0B3fBvzttpiiSXzFYdm55enhGLU0/Thesis%20-%20Measuring%20and%20Improving%20the%20Quality%20of%20File%20Carving%20Methods.pdf
+  * Carving for NTFS compressed files: https://googledrive.com/host/0B3fBvzttpiiSXzFYdm55enhGLU0/Carving%20for%20NTFS%20compressed%20files.pdf
